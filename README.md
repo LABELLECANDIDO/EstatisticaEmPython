@@ -19,9 +19,9 @@
 
 Medida | Enunciado | Solução
 ------- | --------- | ------------ |
-Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb) | [Media.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb)   |
-Media | [Media do valor gasto em transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  | [Media2.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  |
-Mediana | [Calculo da mediana do tempo de sessão](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  | [Mediana.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  |
+Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb?short_path=c6599c5) | [Media.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb?short_path=c6599c5)   |
+Media | [Media do valor gasto em transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb?short_path=60d8ac8)  | [Media2.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb?short_path=60d8ac8)  |
+Mediana | [Calculo da mediana do tempo de sessão](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb?short_path=5c8ea3b)  | [Mediana.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb?short_path=5c8ea3b)  |
 Moda | [Moda dos tipos de transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb?short_path=791215d)  | [Moda.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb?short_path=791215d)  |
 
 
@@ -43,6 +43,14 @@ Moda | [Moda dos tipos de transações feita em cada região do mundo](https://g
 <p align=center>Mediana do tempo de sessão.</p>
 <div style="width: 100%;display: flex; justify-content: center;">
  <img src=img/mediana.png>
+</div>
+
+<br>
+<br>
+<h1 align=center>Apresentação do BoxPlot</h1>
+<p align=center>BoxPlot da media de transações de baixo, moderado e alto risco, onde ele apresenta o valor e a classificação. </p>
+<div style="width: 100%;display: flex; justify-content: center;">
+ <img src=img/boxplot.png>
 </div>
 
 <br>
