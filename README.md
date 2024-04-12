@@ -22,7 +22,7 @@ Medida | Enunciado | Solução
 Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb) | [Media.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb)   |
 Media | [Media do valor gasto em transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  | [Media2.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  |
 Mediana | [Calculo da mediana do tempo de sessão](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  | [Mediana.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  |
-Moda | [Moda dos tipos de transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb)  | [Moda.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb)  |
+Moda | [Moda dos tipos de transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb?short_path=791215d)  | [Moda.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb?short_path=791215d)  |
 
 
 
