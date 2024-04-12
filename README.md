@@ -19,46 +19,46 @@
 
 Medida | Enunciado | Solução
 ------- | --------- | ------------ |
-Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/eleicoes/eleicao.java) | [Media.py](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/eleicoes/eleicao.java)   |
-Media | [Media do valor gasto em transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  | [Media2.py](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  |
-Mediana | [Calculo da mediana do tempo de sessão](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  | [Mediana.py](https://github.com/LABELLECANDIDO/Algoritmo-Java/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  |
+Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb) | [Media.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb)   |
+Media | [Media do valor gasto em transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  | [Media2.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media2.ipynb)  |
+Mediana | [Calculo da mediana do tempo de sessão](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  | [Mediana.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Mediana.ipynb)  |
+Moda | [Moda dos tipos de transações feita em cada região do mundo](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb)  | [Moda.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Moda.ipynb)  |
 
 
 
 <h2 align=center> Exemplo de saída de um cálculo de moda:</h2>
 <p align=center>Moda dos tipos de transações feita em cada região do mundo.</p>
 
-#
-
 <div style="width: 100%;display: flex; justify-content: center;">
- <img src=moda.png>
+ <img src=img/moda.png>
 </div>
 
 <h2 align=center> Exemplo de saída de um cálculo de media:</h2>
 <p align=center>Media de valor da transação de acordo com o nivel de risco.</p>
-
 <div style="width: 100%;display: flex; justify-content: center;">
- <img src=media.png>
+ <img src=img/media.png>
 </div>
 
+<h2 align=center> Exemplo de saída de um cálculo de mediana:</h2>
+<p align=center>Mediana do tempo de sessão.</p>
+<div style="width: 100%;display: flex; justify-content: center;">
+ <img src=img/mediana.png>
+</div>
 
-
-<h2 align=center> Exemplo de saída de um cálculo de media:</h2>
-<p align=center>Media de valor da transação de acordo com o nivel de risco.</p>
-
+<br>
 
 # Documento de [ESPECIFICAÇÃO](https://docs.google.com/document/d/1l3aFayVu-ROZuMOiD_bm9ARJE7lgLyOrxiojXmY70ns/edit) dos dados.
 
 - Este [DOCUMENTO DE ESPECIFICAÇÕES](https://docs.google.com/document/d/1l3aFayVu-ROZuMOiD_bm9ARJE7lgLyOrxiojXmY70ns/edit) apresenta estimativas de tendência central de acordo com os dados coletados do Metaverse Financial Transactions Dataset, buscando apresentar:
 
 - A média do valor gasto em transações feita em cada região do mundo.
-#
+
 - Média dos valores da transação de acordo com o nível de risco.
-#
+
 - Moda dos tipos de transações feitas em cada região do mundo.
-#
+
 - Mediana do tempo de sessão de cada região do mundo. 
-#
+
 - Além de um Boxplot mostrando os dados de transações de baixo, médio e alto risco, com seus respectivos níveis.</p>
 #
 
