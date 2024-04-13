@@ -1,10 +1,13 @@
 <h1 align=center> 🔎Análise de Moda, Média e Mediana em Python com BoxPlot Aprimorado </h1>
  <h4 align=center>Uma análise completa de moda, média e mediana em Python para o Metaverse Financial Transactions Dataset, incluindo a criação de um BoxPlot informativo.</h4>
 
-# Conjunto de [Dados](https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset)
-- clique [AQUI](https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset) e tenha acesso ao conjunto de dados que conjunto de dados que fornece transações financeiras blockchain dentro do Metaverso Aberto, com o objetivo de fornecer um conjunto de dados rico, diversificado e realista para desenvolver e testar modelos de detecção de anomalias, análise de fraude e análise preditiva em ambientes virtuais.
-
 <div align=center>
+
+# Conjunto de [Dados](https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset)
+### clique [AQUI](https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset) 
+- Tenha acesso ao conjunto de dados que conjunto de dados que fornece transações financeiras blockchain dentro do Metaverso Aberto, com o objetivo de fornecer um conjunto de dados rico, diversificado e realista para desenvolver e testar modelos de detecção de anomalias, análise de fraude e análise preditiva em ambientes virtuais.
+
+
 <h2>🖐🏻Participantes</h2>
 
 - Labelle Candido
@@ -13,7 +16,7 @@
 - Rennan Allen
 - Dilermando Afonso
 
-</div>
+
 
   # 💻Funcionalidades:
    ### Cálculo de moda, média e mediana para:
@@ -26,10 +29,13 @@
 - Transações de baixo, médio e alto risco.
 - Distribuição de valores das transações por nível de risco.
  
+
+
 #
 
  ### Cálculos feito em Python  
-
+ </div>
+ 
 Medida | Enunciado | Solução
 ------- | --------- | ------------ |
 Media | [Media de valor da transação de acordo com o nivel de risco](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb?short_path=c6599c5) | [Media.py](https://github.com/LABELLECANDIDO/EstatisticaEmPython/blob/main/dadosEstatistica/Media.ipynb?short_path=c6599c5)   |
@@ -65,6 +71,7 @@ Moda | [Moda dos tipos de transações feita em cada região do mundo](https://g
 </div>
 
 <br>
+<div align=center>
 
 # 📑Documento de [ESPECIFICAÇÃO](https://docs.google.com/document/d/1l3aFayVu-ROZuMOiD_bm9ARJE7lgLyOrxiojXmY70ns/edit) dos dados.
 
@@ -79,11 +86,18 @@ Moda | [Moda dos tipos de transações feita em cada região do mundo](https://g
 - Mediana do tempo de sessão de cada região do mundo. 
 
 - Além de um Boxplot mostrando os dados de transações de baixo, médio e alto risco, com seus respectivos níveis.</p>
+</div>
+
+<br>
+
+<div align=center>
+<h1>📆Ata de Reunião </h1>
+
+### clique [AQUI](https://docs.google.com/document/d/10FPW175itM_XcYFrYCfXio0sq1w0Gd2_MkWtGm5JCLg/edit?usp=sharing) e vejam a ata de reunião do nosso projeto de estatística.
+
+</div>
 
 
-<h1 align=center>📆Ata de Reunião </h1>
-
-### clique [AQUI](https://docs.google.com/document/d/10FPW175itM_XcYFrYCfXio0sq1w0Gd2_MkWtGm5JCLg/edit?usp=sharing) e veja a ata de reunião do nosso projeto de estatística.
 #
  <h1 align=center>📓Dicionário de dados</h1>
 <p align=center>Tabela de transações financeiras feitas no metaverso. Nesta tabela contém os campo </p>
@@ -97,3 +111,5 @@ Moda | [Moda dos tipos de transações feita em cada região do mundo](https://g
 </div>
 
 <img src=img/dicionario.jpeg>
+
+#
